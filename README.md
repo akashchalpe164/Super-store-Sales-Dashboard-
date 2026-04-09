@@ -4,6 +4,10 @@ Super Store Sales Dashboard built using Power BI to analyze sales, profit, and c
 ## Objectives
 Analyze overall sales amd profit performance , Understanding customer purchasing behavior , Identify top-performing categories and sub-categories ,Evelate shipping and payment preferances 
 
+# Dataset Used 
+
+
+
 ## Key KPIs
 Total Orders      : 22k
 Total Sales       : 2M
