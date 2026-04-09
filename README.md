@@ -17,4 +17,7 @@ Total Sales       : 2M
 Total Profit      : 175k
 Avg. Shopping Day : 4
 
+## Dashboard Interaction
+<a href ="" > View Dashboard </a>
+
 
