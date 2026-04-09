@@ -27,4 +27,16 @@ Does payment mode affect sales volume? Which shipping mode is used the most?
 Dashboard Interaction
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/Super%20Store%20Sales%20Dashboard.png" > View Dashboard </a>
 
+## Process 
+Dashboard Creation Process 
 
+- Collected and imported dataset into Power BI-
+-  Cleaned and transformed data using Power Query
+- Created relationships and data model
+- Added calculated measures (Sales, Profit, KPIs)
+- Built visuals (charts, cards, filters
+- Designed dashboard layout and formatting
+- Generated insights and finalized dashboard
+  
+## dashboards Images 
+<a href ="https://1drv.ms/i/c/DF58E2B925261CF7/IQCxFxiHg_exSpj2x7zNXGkKAY7Zmw_YgGR0_-mbSVYz0K0?e=cEpfWM " > view images </a>
