@@ -4,7 +4,7 @@ Super Store Sales Dashboard built using Power BI to analyze sales, profit, and c
 ## Objectives
 Analyze overall sales amd profit performance , Understanding customer purchasing behavior , Identify top-performing categories and sub-categories ,Evelate shipping and payment preferances 
 
-# Dataset Used 
+## Dataset Used 
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/SuperStore%20Sales%20DataSet.xlsx"> SuperStoreSales Data </a>
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/January_23.xlsx"> January Data </a>
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/February_23.xlsx"> February Data </a>
