@@ -38,5 +38,5 @@ Dashboard Creation Process
 - Designed dashboard layout and formatting
 - Generated insights and finalized dashboard
   
-## dashboards Images 
+## Dashboards Images 
 <a href ="https://1drv.ms/i/c/DF58E2B925261CF7/IQCxFxiHg_exSpj2x7zNXGkKAY7Zmw_YgGR0_-mbSVYz0K0?e=cEpfWM " > View Dashboard Images </a>
