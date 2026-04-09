@@ -18,6 +18,6 @@ Total Profit      : 175k
 Avg. Shopping Day : 4
 
 ## Dashboard Interaction
-<a href ="" > View Dashboard </a>
+<a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/Super%20Store%20Sales%20Dashboard.png" > View Dashboard </a>
 
 
