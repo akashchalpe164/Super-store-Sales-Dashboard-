@@ -5,17 +5,17 @@ Super Store Sales Dashboard built using Power BI to analyze sales, profit, and c
 Analyze overall sales amd profit performance , Understanding customer purchasing behavior , Identify top-performing categories and sub-categories ,Evelate shipping and payment preferances 
 
 # Dataset Used 
-- <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/SuperStore%20Sales%20DataSet.xlsx"> SuperStoreSalesData </a>
+- <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/SuperStore%20Sales%20DataSet.xlsx"> SuperStoreSales Data </a>
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/January_23.xlsx"> January Data </a>
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/February_23.xlsx"> February Data </a>
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/March_2023.xlsx"> March Data </a>
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/SuperStore%20Sales%20DataSet.xlsx"> April Data </a>
 
 ## Key KPIs
-Total Orders      : 22k
-Total Sales       : 2M
-Total Profit      : 175k
-Avg. Shopping Day : 4
+-Total Orders      : 22k
+-Total Sales       : 2M
+-Total Profit      : 175k
+-Avg. Shopping Day : 4
 
 ## Dashboard Interaction
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/Super%20Store%20Sales%20Dashboard.png" > View Dashboard </a>
