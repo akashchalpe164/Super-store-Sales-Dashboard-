@@ -39,4 +39,4 @@ Dashboard Creation Process
 - Generated insights and finalized dashboard
   
 ## dashboards Images 
-<a href ="https://1drv.ms/i/c/DF58E2B925261CF7/IQCxFxiHg_exSpj2x7zNXGkKAY7Zmw_YgGR0_-mbSVYz0K0?e=cEpfWM " > view images </a>
+<a href ="https://1drv.ms/i/c/DF58E2B925261CF7/IQCxFxiHg_exSpj2x7zNXGkKAY7Zmw_YgGR0_-mbSVYz0K0?e=cEpfWM " > View Dashboard Images </a>
