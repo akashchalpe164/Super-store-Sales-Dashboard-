@@ -17,7 +17,14 @@ Analyze overall sales amd profit performance , Understanding customer purchasing
 -Total Profit      : 175k
 -Avg. Shopping Day : 4
 
-## Dashboard Interaction
+## Questions (KPIs)
+What is the total sales, profit, and number of orders? What is the average shipping time for orders?
+Which month has the highest and lowest sales?Are there months where sales are high but profit is low?
+Which category generates the highest sales? Which sub-category contributes the most revenue?
+Which category needs improvement? Which customer segment contributes the most sales?
+Does payment mode affect sales volume? Which shipping mode is used the most?
+
+Dashboard Interaction
 - <a href ="https://github.com/akashchalpe164/Super-store-Sales-Dashboard-/blob/main/Super%20Store%20Sales%20Dashboard.png" > View Dashboard </a>
 
 
